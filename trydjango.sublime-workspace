@@ -1,0 +1,287 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"id",
+				"id_"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"PR",
+				"products"
+			],
+			[
+				"P",
+				"Product"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"pr",
+				"product_detail"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"p",
+				"product_create"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"w",
+				"widget"
+			],
+			[
+				"f",
+				"forms"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"about",
+				"about_view"
+			],
+			[
+				"H",
+				"HttpResponse"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Азамат/Desktop/dev/my-app",
+		"/C/Users/Азамат/Desktop/dev/my-app/src"
+	],
+	"file_history":
+	[
+		"/C/Users/Азамат/Desktop/Яндекс.Практикум/[SW.BAND] [Яндекс.Практикум] Python-разработчик. Часть 2 из 8 (2020)/[SW.BAND] Python-разработчик. Часть 2 из 8 (2020)(1)/[SW.BAND] 03_Спринт/[SW.BAND] 12_Django создаём приложение/[SW.BAND] 05_Django ORM/01-task.html",
+		"/C/Users/Азамат/Desktop/Яндекс.Практикум/[SW.BAND] [Яндекс.Практикум] Python-разработчик. Часть 2 из 8 (2020)/[SW.BAND] Python-разработчик. Часть 2 из 8 (2020)(1)/[SW.BAND] 03_Спринт/[SW.BAND] 12_Django создаём приложение/[SW.BAND] 02_Подготовка окружения Django проекта/01_Подготовка окружения Django проекта.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/courses/models.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/courses/urls.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/courses/views.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/courses/admin.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/courses/templates/courses/course_detail.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/products/views.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/products/urls.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/products/models.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/trydjango/urls.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/courses/templates/courses/courses_detail.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/trydjango/settings.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/Blog/models.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/Blog/forms.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/Blog/urls.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/Blog/views.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/Blog/templates/articles/article_create.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/Blog/templates/articles/article_delete.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/Blog/templates/article_create.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/Blog/templates/articles/article_detail.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/Blog/templates/articles/article_list.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/products/templates/products/product_list.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/products/forms.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/Blog/admin.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/products/apps.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/products/admin.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/pages/views.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/pages/models.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/pages/admin.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/manage.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/products/templates/products/product_create.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/products/templates/products/product_detail.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/products/templates/products/product_delete.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/trydjango/__init__.py",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/templates/home.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/templates/base.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/templates/product/detail.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/templates/navbar.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/templates/about.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/templates/contact.html",
+		"/C/Users/Азамат/Desktop/dev/trydjango/src/templates/about",
+		"/C/Users/Азамат/Desktop/Новая/dsfg",
+		"/C/Users/Азамат/Desktop/dev/trydjango/trydjango.sublime-project",
+		"/C/Users/Азамат/Desktop/Новая папка (3)/index"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2016951772"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
